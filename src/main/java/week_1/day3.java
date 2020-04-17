@@ -1,3 +1,5 @@
+package week_1;
+
 public class day3 {
   public int maxSubArray(int[] nums) {
     int[] copyNums = new int[nums.length];

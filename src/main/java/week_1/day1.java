@@ -1,3 +1,5 @@
+package week_1;
+
 import java.util.HashMap;
 
 public class day1 {

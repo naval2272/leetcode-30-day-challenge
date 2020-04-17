@@ -1,3 +1,5 @@
+package week_1;
+
 public class day5 {
   public int maxProfit(int[] prices) {
     int totalPrice = 0;

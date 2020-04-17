@@ -1,3 +1,5 @@
+package week_1;
+
 public class day4 {
   public void moveZeroes(int[] nums) {
     // Approach 1
